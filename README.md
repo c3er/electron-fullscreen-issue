@@ -1,3 +1,3 @@
-# electron-playwright-yargs
+# electron-fullscreen-issue
 
-A minimal Electron application to show problems between [Yargs'](https://yargs.js.org/) `hideBin` helper function and execution [Playwright](https://playwright.dev/) tests.
+A minimal Electron application to show that the menu bar stays visible when an embedded video is displayed in fullscreen.
