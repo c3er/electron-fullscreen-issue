@@ -11,6 +11,6 @@
   "author": "Christian Dreier",
   "license": "MIT",
   "devDependencies": {
-    "electron": "27.1.3"
+    "electron": "30.0.3"
   }
 }
